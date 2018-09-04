@@ -1,0 +1,2 @@
+#Step 1: The user inputs the length of the sequence.
+#Step 2: The program prints the first n numbers in the sequence: 1, 2, 3, 6, 11, 20, 37, ___, ___, ___, …
